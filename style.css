@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  p {
+    margin-bottom: 1em;
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
